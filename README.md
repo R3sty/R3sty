@@ -3,7 +3,7 @@
 ![I am a designer, developer, content creator and a teacher!](https://github.com/R3sty/R3sty/blob/main/banner.jpg)
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / REACT NATIVE / JS / HTML / CSS
 
 
 
