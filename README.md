@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Resty.
 #### I am a designer, developer, content creator and a teacher!
-![I am a designer, developer, content creator and a teacher!](https://ibb.co/tPXVWMd)
+![I am a designer, developer, content creator and a teacher!](https://github.com/R3sty/R3sty/blob/main/banner.jpg)
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
