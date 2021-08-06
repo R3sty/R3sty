@@ -14,4 +14,5 @@ REACT / REACT NATIVE / JS / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3sty&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3sty&show_icons=true&theme=radical&layout=compact)](https://github.com/R3sty/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3sty&layout=compact)](https://github.com/R3sty/github-readme-stats)
+
