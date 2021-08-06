@@ -1,4 +1,4 @@
-![I am a designer, developer, content creator and a teacher!](https://github.com/R3sty/R3sty/blob/main/banner.jpg)
+![I am a designer, developer, content creator and a teacher!](https://github.com/R3sty/R3sty/blob/main/banner.png)
 
 # Hi there 👋, I'm Resty.
 I am a designer, a developer, a content creator and a teacher!
