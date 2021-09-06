@@ -14,7 +14,7 @@ REACT / REACT NATIVE / JS / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3sty&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3stytheme=tokyonight
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3sty&layout=compacttheme=tokyonight)]
+(https://github.com/anuraghazra/github-readme-stats)
 
 
