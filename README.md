@@ -5,9 +5,6 @@ I am a designer, a developer, a content creator and a teacher!
 I love to build and I enjoy working on the frontend and UI. 
 I am passionate about learning I always seek to improve my craft. 
 
-Currently on a see-food diet! (When I see food, I eat🍕 🍔 🍛)
-
-
 ## Skills and Experience
 REACT / REACT NATIVE / JS / HTML / CSS
 
