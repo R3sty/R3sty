@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Resty.
 I am a designer, a developer, a content creator and a teacher!
-I love to build and I enjoy working on the frontend and UI. 
+I love to build and I enjoy working with frontend and design. 
 I am passionate about learning I always seek to improve my craft. 
 </br>
 <h3 align="left">Languages and Tools:</h3>
