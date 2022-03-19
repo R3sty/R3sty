@@ -6,9 +6,6 @@ I love to build and I enjoy working with frontend and design.
 I am passionate about learning I always seek to improve my craft.
 
 ### 🧐 Some Things About Me
-<li>✍️Technical Blogger at <a href="https://lo-victoria.com" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Personal%20Blog-add8e6?&style=flat-square" /></a> <a href="https://medium.com/@victoria2666" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
-<a href="https://dev.to/lo_victoria2666" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Dev.To-0A0A0A?&style=flat-square&logo=dev.to&logoColor=white" /></a>
-</li>
 <li> 🌐 Exists somewhere on <a href="https://twitter.com/R3XIST" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
 <a href="https://github.com/R3sty" target="_blank">
