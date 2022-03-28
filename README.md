@@ -6,7 +6,7 @@ I love to build and I enjoy working with frontend and design.
 I am passionate about learning I always seek to improve my craft.
 
 ### 🧐 Some Things About Me
-<li> </li>
+<li>📷 Love, love, love to take pictures!</li>
 <li>😄 Pronouns: He/him</li>
 <li>⚡ Fun facts: Speaks English, Tagalog and Japanese. Will work for coffee and chocolate!</li>
 <li>📖 Currently Working on: Sibol Learning Management System (own project)</li>
