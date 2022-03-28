@@ -6,14 +6,7 @@ I love to build and I enjoy working with frontend and design.
 I am passionate about learning I always seek to improve my craft.
 
 ### 🧐 Some Things About Me
-<li> 🌐 Exists somewhere on <a href="https://twitter.com/R3XIST" target="_blank">
-<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
-<a href="https://github.com/R3sty" target="_blank">
-<img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" />
-<a href="https://www.linkedin.com/in/resty-iral/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-</li>
+<li> </li>
 <li>😄 Pronouns: He/him</li>
 <li>⚡ Fun facts: Speaks English, Tagalog and Japanese. Will work for coffee and chocolate!</li>
 <li>📖 Currently Working on: Sibol Learning Management System (own project)</li>
@@ -28,7 +21,13 @@ I am passionate about learning I always seek to improve my craft.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/resty-iral/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="resty" /></a>
+<a href="https://twitter.com/R3XIST" target="_blank">
+<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
+<a href="https://github.com/R3sty" target="_blank">
+<img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/resty-iral/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 </p>
 
