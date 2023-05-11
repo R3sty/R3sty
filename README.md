@@ -7,7 +7,7 @@ I am passionate about learning I always seek to improve my craft.
 
 ### 🧐 Some Things About Me
 <li>📷 Love to take pictures!</li>
-<li>⚡ Fun facts: Speaks English, Japanese, and Tagalog. Will work for coffee and chocolate!</li>
+<li>⚡ Fun facts: Speaks English, Tagalog, and Japanese. Will work for coffee and chocolate!</li>
 <li>📖 Currently Working on: Frontend Mentor Projects</li>
 
 <h3 align="left">Languages and Tools:</h3>
