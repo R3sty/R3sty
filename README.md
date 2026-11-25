@@ -1,23 +1,23 @@
 <h1 align="center">Hi, I'm Resty 👋</h1>
 
 <p align="center">
-  Developer · photographer · mentor<br/>
-  I build clean, practical web apps and enjoy the space where frontend meets design.
+  I just enjoy building things 🛠️<br/>
+  Web apps, little automations, and whatever idea won't leave my head.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/resty-iral/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/R3XIST"><img alt="X" src="https://img.shields.io/badge/@R3XIST-000000?style=flat&logo=x&logoColor=white"/></a>
   <img alt="Languages" src="https://img.shields.io/badge/EN%20·%20TL%20·%20JA-555555?style=flat"/>
 </p>
 
 ---
 
-### 🛠️ Now
+### 🚀 Currently
 
-- 🗾 **Japan Hidden Spots**: leading a small team building a full-stack app for hidden places and family-run food spots in Japan
-- 🧑‍🏫 Mentoring a junior developer through a real project, sprint by sprint
+- 🗾 Building **Japan Hidden Spots**, an app for hidden places and family-run food spots in Japan
+- 🤖 Learning AI, automation and how to make bots do the boring stuff
 - 📷 Taking pictures whenever I can
+- ☕ Powered by coffee and chocolate
 
 ### 🧰 Tech I use
 
