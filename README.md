@@ -14,7 +14,6 @@
 
 ### 🚀 Currently
 
-- 🗾 Building **Japan Hidden Spots**, an app for hidden places and family-run food spots in Japan
 - 🤖 Learning AI, automation and how to make bots do the boring stuff
 - 📷 Taking pictures whenever I can
 - ☕ Powered by coffee and chocolate
@@ -25,14 +24,10 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,postgres,figma,git&perline=10" alt="React, Next.js, JavaScript, TypeScript, Tailwind, Node.js, Express, PostgreSQL, Figma, Git"/>
 </p>
 
-### 📌 Featured projects
+### 📌 What I'm building
 
-| Project | What it is | Stack |
-|---|---|---|
-| [japan-hidden-spots](https://github.com/R3sty/japan-hidden-spots) | Share and review hidden spots and family-run restaurants in Japan (in progress) | React, Express, PostgreSQL |
-| [devjobs-web-app](https://github.com/R3sty/devjobs-web-app) | Responsive jobs board with job filters | HTML, CSS, JavaScript |
-| [github-user-search](https://github.com/R3sty/github-user-search) | Search GitHub profiles using the GitHub API | JavaScript, API |
-| [myteam-multipage-website](https://github.com/R3sty/myteam-multipage-website) | Multi-page responsive marketing site | HTML, CSS |
+**[Tara Japan](https://www.tara-japan.com)**: a Taglish guide to traveling and living in Japan for Filipinos. Built with Next.js, Sanity and Vercel.<br/>
+Next up: AI features and automations on top of it. Stay tuned 👀
 
 ---
 
