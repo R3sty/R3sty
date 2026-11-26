@@ -14,7 +14,6 @@
 
 ### 🚀 Currently
 
-- 🇯🇵 Running **[Tara Japan](https://www.tara-japan.com)**, a Taglish guide to traveling and living in Japan for Filipinos
 - 🤖 Learning AI, automation and how to make bots do the boring stuff
 - 📷 Taking pictures whenever I can
 - ☕ Powered by coffee and chocolate
@@ -29,12 +28,6 @@
 
 **[Tara Japan](https://www.tara-japan.com)**: a Taglish guide to traveling and living in Japan for Filipinos. Built with Next.js, Sanity and Vercel.<br/>
 Next up: AI features and automations on top of it. Stay tuned 👀
-
----|---|---|
-| [Tara Japan](https://www.tara-japan.com) | Japan travel and living guide for Filipinos, with a CMS-powered blog | Next.js, Sanity, Vercel |
-| [devjobs-web-app](https://github.com/R3sty/devjobs-web-app) | Responsive jobs board with job filters | HTML, CSS, JavaScript |
-| [github-user-search](https://github.com/R3sty/github-user-search) | Search GitHub profiles using the GitHub API | JavaScript, API |
-| [myteam-multipage-website](https://github.com/R3sty/myteam-multipage-website) | Multi-page responsive marketing site | HTML, CSS |
 
 ---
 
