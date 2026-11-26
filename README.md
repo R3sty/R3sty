@@ -25,10 +25,12 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,postgres,figma,git&perline=10" alt="React, Next.js, JavaScript, TypeScript, Tailwind, Node.js, Express, PostgreSQL, Figma, Git"/>
 </p>
 
-### 📌 Featured projects
+### 📌 What I'm building
 
-| Project | What it is | Stack |
-|---|---|---|
+**[Tara Japan](https://www.tara-japan.com)**: a Taglish guide to traveling and living in Japan for Filipinos. Built with Next.js, Sanity and Vercel.<br/>
+Next up: AI features and automations on top of it. Stay tuned 👀
+
+---|---|---|
 | [Tara Japan](https://www.tara-japan.com) | Japan travel and living guide for Filipinos, with a CMS-powered blog | Next.js, Sanity, Vercel |
 | [devjobs-web-app](https://github.com/R3sty/devjobs-web-app) | Responsive jobs board with job filters | HTML, CSS, JavaScript |
 | [github-user-search](https://github.com/R3sty/github-user-search) | Search GitHub profiles using the GitHub API | JavaScript, API |
